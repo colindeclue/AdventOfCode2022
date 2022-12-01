@@ -1,5 +1,4 @@
-﻿using System.IO;
-using System.Linq;
+﻿using System.Linq;
 
 namespace AdventOfCode.Day01;
 
@@ -11,13 +10,14 @@ public class Solution : BaseSolution
 
     public override string GetPart1Answer()
     {
-        var rawCalories = File.ReadLines("Day01/Day01Input.txt").ToList();
+        var rawCalories = GetResourceString()
+            .Split(Environment.NewLine, StringSplitOptions.None);
         List<List<int>> caloriesLists = new();
         List<int> current = new();
 
         foreach(var calorie in rawCalories)
         {
-            if (string.IsNullOrEmpty(calorie))
+            if (string.IsNullOrWhiteSpace(calorie))
             {
                 caloriesLists.Add(current);
                 current = new();
@@ -35,13 +35,14 @@ public class Solution : BaseSolution
 
     public override string GetPart2Answer()
     {
-        var rawCalories = File.ReadLines("Day01/Day01Input.txt").ToList();
+        var rawCalories = GetResourceString()
+            .Split(Environment.NewLine, StringSplitOptions.None);
         List<List<int>> caloriesLists = new();
         List<int> current = new();
 
         foreach (var calorie in rawCalories)
         {
-            if (string.IsNullOrEmpty(calorie))
+            if (string.IsNullOrWhiteSpace(calorie))
             {
                 caloriesLists.Add(current);
                 current = new();
