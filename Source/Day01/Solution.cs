@@ -4,7 +4,7 @@ namespace AdventOfCode.Day01;
 
 public class Solution : BaseSolution
 {
-    public Solution() : base(1, "Calories")
+    public Solution() : base(1, "")
     {
     }
 
