@@ -4,7 +4,7 @@ namespace AdventOfCode.Day02;
 
 public class Solution : BaseSolution
 {
-    public Solution() : base(2, "Rock Paper Scissors")
+    public Solution() : base(2, "")
     {
     }
 

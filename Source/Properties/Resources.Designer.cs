@@ -67,135 +67,7 @@ namespace AdventOfCode.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to B Z
-        ///A X
-        ///B Z
-        ///B Z
-        ///C Z
-        ///B Z
-        ///A Z
-        ///B X
-        ///C Y
-        ///C Y
-        ///A X
-        ///A X
-        ///A Z
-        ///B Z
-        ///A X
-        ///A Z
-        ///B X
-        ///C Y
-        ///A Y
-        ///A Y
-        ///C Y
-        ///B Y
-        ///C X
-        ///C Y
-        ///B Z
-        ///A X
-        ///A Y
-        ///B Y
-        ///A X
-        ///A Z
-        ///B X
-        ///B Y
-        ///B Z
-        ///B Z
-        ///B Z
-        ///C Y
-        ///B X
-        ///A X
-        ///C Y
-        ///B Z
-        ///B Z
-        ///C X
-        ///A Z
-        ///B Z
-        ///B Z
-        ///C X
-        ///C X
-        ///B X
-        ///B X
-        ///A X
-        ///B X
-        ///C Z
-        ///C Y
-        ///C Y
-        ///C Y
-        ///C X
-        ///B Z
-        ///B Y
-        ///C X
-        ///A X
-        ///C X
-        ///C Y
-        ///C Y
-        ///C Y
-        ///B X
-        ///B Y
-        ///A Z
-        ///B Z
-        ///A X
-        ///B Z
-        ///C Y
-        ///B Y
-        ///B Z
-        ///B X
-        ///C Y
-        ///B Y
-        ///A Y
-        ///A X
-        ///B Z
-        ///B Z
-        ///B Z
-        ///B Z
-        ///C X
-        ///A X
-        ///B Y
-        ///C Y
-        ///C Y
-        ///B Z
-        ///B Z
-        ///A Z
-        ///B Y
-        ///A X
-        ///A Z
-        ///B Z
-        ///A X
-        ///B X
-        ///B X
-        ///B X
-        ///B X
-        ///A X
-        ///A Z
-        ///B X
-        ///B Z
-        ///B X
-        ///B Z
-        ///B X
-        ///C Y
-        ///C Y
-        ///C X
-        ///B X
-        ///A Z
-        ///C Y
-        ///B Z
-        ///C Z
-        ///B X
-        ///B Z
-        ///B Z
-        ///C Z
-        ///C Y
-        ///B X
-        ///B X
-        ///C Y
-        ///A Y
-        ///A X
-        ///C Z
-        ///B X
-        ///B X
-        ///C X
-        /// [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to .
         /// </summary>
         internal static string Day02 {
             get {
@@ -204,7 +76,21 @@ namespace AdventOfCode.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to fBDGBcBrGDvjPtPtPV
+        ///QhzJLlLJZgLZzNTgZClQHvRvHFvrjrvnNjHnFjPF
+        ///ChldsCZhsQzsCGrrSfMfGpfrdM
+        ///MJbgcgJlvMSbfjMSbllmCrntwmFrrFwgtCtFFG
+        ///vPhddVZZhmnmdnHmHn
+        ///vNBZppZQhjSzfScjDN
+        ///jwhqbZRvbzvbqqpqzqHHCCCzsLmmQVtmJVJtLWLPrVLLVrmp
+        ///dGMfMGMdBBMSTfdMGTNlcZGGPSmQJVVWsJQPLmPLVPtmWPLW
+        ///llMBBcfBnBcZMGgqvCDbjbwgCHjvzH
+        ///RSDprRrwgVVRwrGqrJsNFJslgglmmNszzN
+        ///LLnWjcHWnCTmpClhHp
+        ///MpfMZWjtLMjpjtBPnLPndMBGRqwbwBwvrGwGrGVbVvwD
+        ///PQNGshQWtwWNcjssJHHJdlBLBlLrRDFFCrdwSlLB
+        ///mbzqZqsgMzfnbmbfgpZvZBLrLlSCrprDlLCrdFBlDL
+        ///MfvZzqMmsVnVzzTTbMzfvnctjhcHPQJJjNTG [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Day03 {
             get {
